@@ -22,7 +22,6 @@ library(data.table)
 # This lets us write a paste0 function to loop through
 # them all in the overall webscraping function
 
-
 city_names <- c("Sydney", "Melbourne", "Brisbane", "Perth", "Canberra", 
                 "Adelaide", "Hobart", "Darwin")
 
